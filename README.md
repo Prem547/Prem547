@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prem547
+- 👋 Hi, I’m @Premkumar Jillella
 - 👀 I’m interested in Analytics
 - 🌱 I’m currently learning Data science with AI & ML
 - 💞️ I’m looking to collaborate on Data science Projects

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Premkumar Jillella
-- 👀 I’m interested in Analytics
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data science with AI & ML
 - 💞️ I’m looking to collaborate on Data science Projects
 

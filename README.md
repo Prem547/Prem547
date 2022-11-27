@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Premkumar Jillela
 - 👀 I’m a Data Analyst
-- 🌱 I’m currently working in accenture
+- 🌱 I’m currently working in accenture, Hyd.
 - 💞️ I’m looking to collaborate on Data science Projects
 
 <!---

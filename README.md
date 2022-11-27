@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Premkumar Jillella
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data science with AI & ML
+- 👋 Hi, I’m @Premkumar Jillela
+- 👀 I’m a Data Analyst
+- 🌱 I’m currently working in accenture
 - 💞️ I’m looking to collaborate on Data science Projects
 
 <!---
